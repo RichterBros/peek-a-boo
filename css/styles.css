@@ -11,3 +11,16 @@ p {
       width: 300px;
       height: auto;
   }
+
+  #walrus-showing {
+    display: none;
+  }
+
+  p {
+    cursor: pointer;
+    color: #0088cc;
+  }
+  
+  p:hover {
+    text-decoration: underline;
+  }
