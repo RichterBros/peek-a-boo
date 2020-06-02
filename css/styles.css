@@ -40,3 +40,7 @@ p {
   .test{
       background-color: pink;
   }
+
+  .test-new-background {
+      background-color: purple;
+  }

@@ -15,11 +15,11 @@ $(document).ready(function(){
       });
     
       $("button#red").click(function() {
-        $("test").removeClass();
+        $("body").removeClass();
         $("body").addClass("red-background");
       });
-
-
-
-
     });
+
+
+
+
